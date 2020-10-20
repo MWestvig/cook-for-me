@@ -1,4 +1,4 @@
-# cook-for-me
+# cook_for_me
 
 This project will eventually become a mobile recipe app, for us to scan in and upload recipes we have for more ease of access.
 
